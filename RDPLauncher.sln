@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDPLauncher", "RDPLauncher\RDPLauncher.csproj", "{18745B9D-50A3-4FFB-AFC3-759918175BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18745B9D-50A3-4FFB-AFC3-759918175BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18745B9D-50A3-4FFB-AFC3-759918175BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18745B9D-50A3-4FFB-AFC3-759918175BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18745B9D-50A3-4FFB-AFC3-759918175BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18745B9D-50A3-4FFB-AFC3-759918175BEE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
